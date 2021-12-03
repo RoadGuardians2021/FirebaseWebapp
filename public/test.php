@@ -1,4 +1,6 @@
 <?php
+    //You cannot use php scripts in the html of the hosted page, so this script is unused.
+
     $servername = "167.71.83.145";
     $username = "user1";
     $password = "Ly3M9oAnCPNyUMgV";

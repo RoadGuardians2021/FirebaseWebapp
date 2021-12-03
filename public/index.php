@@ -1,5 +1,10 @@
 <?php
 
+//---------------------------------------
+//This file is an outdated copy of the script used for the database. Most recent version of this script is in the 
+//repository containing database and device scripts
+//---------------------------------------
+
 //The marked out part is the ip address of the virtual machine.
 echo 'Hello';
 
